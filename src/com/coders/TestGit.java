@@ -17,5 +17,6 @@ public class TestGit {
         System.out.println("我是hot-fix分支下的代码");
         System.out.println("我是在gitee上进行修改的代码");
         System.out.println("我想静静");
+        System.out.println("我是一张弓");
     }
 }
