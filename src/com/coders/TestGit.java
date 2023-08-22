@@ -11,5 +11,6 @@ public class TestGit {
 
     public static void main(String[] args) {
         System.out.println("你好呀，兄弟们->Git");
+        System.out.println("我能很好，git兄");
     }
 }
